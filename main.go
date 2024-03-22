@@ -7,5 +7,5 @@ import (
 
 func main() {
 	log.Println("First Commit")
-	fmt.Println("First Commit")
+	fmt.Println("First Commit in QA")
 }
